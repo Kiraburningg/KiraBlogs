@@ -14,6 +14,7 @@ Database Name: phpblog
 Table name: posts
 
 Table Structure:
+
 	- id -> primary key
 	   -> auto increment
 
