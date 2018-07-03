@@ -1,5 +1,4 @@
-# Kira Blogs
-My first blog site.
+# Learning Basic Crud Application
 
 Missing functionality.
 - Form validation
